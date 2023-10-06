@@ -16,7 +16,7 @@ The golden rule is at the heart of our engineering culture: "Treat others as you
 >
 > — Jacob Bronowski
 
-Embracing a healthy skepticism enables us to challenge the status quo and continuously questioning our understanding of problems and solutions. By acknowledging our cognitive biases and being open to alternative perspectives, we cultivate an environment of continuous learning and improvement. We encourage research, exploration, and exposure to diverse technologies, languages, industries, and cultures, seeking inspiration from external domains to solve local challenges.
+Embracing a healthy skepticism enables us to challenge the status quo and continuously question our understanding of problems and solutions. By acknowledging our cognitive biases and being open to alternative perspectives, we cultivate an environment of continuous learning and improvement. We encourage research, exploration, and exposure to diverse technologies, languages, industries, and cultures, seeking inspiration from external domains to solve local challenges.
 
 ## Principle 3: As simple as possible, as complicated as necessary
 
